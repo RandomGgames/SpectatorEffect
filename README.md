@@ -1,7 +1,7 @@
 # Spectator Effect
 
-<!-- Description here -->
+A datapack that makes togglling between spectator and normal mode a little more fun.
 
-## Features
+Inspired by @Prismarine_Studios on YouTube
 
-<!-- Bulleted features here -->
+Source: https://youtube.com/shorts/m14XOZGVvGg?si=HmkpzlruMXRsn3Zv
